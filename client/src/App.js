@@ -6,7 +6,7 @@ import Detail from './views/Details/Detail';
 import Form from './views/Form/Form';
 import NavBar from './components/NavBar/NavBar';
 import axios from 'axios';
-axios.defaults.baseURL = 'https://deploy-production-08f1.up.railway.app/';
+axios.defaults.baseURL = 'https://deploy-production-08f1.up.railway.app';
 
 function App() {
 
