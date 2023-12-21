@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d431940.chunk.css",
+    "main.js": "/static/js/main.c20da9c9.chunk.js",
+    "main.js.map": "/static/js/main.c20da9c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fbf668e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fbf668e8.js.map",
+    "static/js/2.77f7bfe4.chunk.js": "/static/js/2.77f7bfe4.chunk.js",
+    "static/js/2.77f7bfe4.chunk.js.map": "/static/js/2.77f7bfe4.chunk.js.map",
+    "static/js/3.4a12cf81.chunk.js": "/static/js/3.4a12cf81.chunk.js",
+    "static/js/3.4a12cf81.chunk.js.map": "/static/js/3.4a12cf81.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9d431940.chunk.css.map": "/static/css/main.9d431940.chunk.css.map",
+    "static/js/2.77f7bfe4.chunk.js.LICENSE.txt": "/static/js/2.77f7bfe4.chunk.js.LICENSE.txt",
+    "static/media/Landing.module.css": "/static/media/PokemonBackGround.64f89c3f.jpg",
+    "static/media/Details.module.css": "/static/media/fondo-estilo-comico-diseno-plano_52683-53321.3e4c8a07.avif",
+    "static/media/pokeballLogo.7fbaba7e.png": "/static/media/pokeballLogo.7fbaba7e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbf668e8.js",
+    "static/js/2.77f7bfe4.chunk.js",
+    "static/css/main.9d431940.chunk.css",
+    "static/js/main.c20da9c9.chunk.js"
+  ]
+}
